@@ -2287,16 +2287,16 @@
         <Background Type="CT_RAW" Source="FF3C3F41" />
       </Color>
       <Color Name="CommandBarOptionsMouseOverBackgroundBegin">
-        <Background Type="CT_RAW" Source="FF3C3F41" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="CommandBarOptionsMouseOverBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF3C3F41" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="CommandBarOptionsMouseOverBackgroundMiddle1">
-        <Background Type="CT_RAW" Source="FF3C3F41" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="CommandBarOptionsMouseOverBackgroundMiddle2">
-        <Background Type="CT_RAW" Source="FF3C3F41" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="CommandBarToolBarBorder">
         <Background Type="CT_RAW" Source="FF3C3F41" />
@@ -2332,7 +2332,7 @@
         <Background Type="CT_RAW" Source="FF3C3F41" />
       </Color>
       <Color Name="FileTabScrollBarThumbHover">
-        <Background Type="CT_RAW" Source="FF3C3F41" />
+        <Background Type="CT_RAW" Source="FF686868" />
       </Color>
       <Color Name="Halo">
         <Background Type="CT_RAW" Source="FF3C3F41" />
@@ -2786,16 +2786,16 @@
         <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
       <Color Name="CommandBarMouseOverBackgroundBegin">
-        <Background Type="CT_RAW" Source="FF4C5052" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="CommandBarMouseOverBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF4C5052" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="CommandBarMouseOverBackgroundMiddle1">
-        <Background Type="CT_RAW" Source="FF4C5052" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="CommandBarMouseOverBackgroundMiddle2">
-        <Background Type="CT_RAW" Source="FF4C5052" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="CommandBarOptionsMouseDownGlyph">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -3215,7 +3215,7 @@
         <Background Type="CT_RAW" Source="FF686868" />
       </Color>
       <Color Name="FileTabScrollBarThumbPressed">
-        <Background Type="CT_RAW" Source="FFEFEBEF" />
+        <Background Type="CT_RAW" Source="FF686868" />
       </Color>
       <Color Name="FileTabSecondarySeparator">
         <Background Type="CT_RAW" Source="FF46464A" />
@@ -3678,13 +3678,13 @@
         <Background Type="CT_RAW" Source="FFEFEBEF" />
       </Color>
       <Color Name="ScrollBarThumbMouseOverBackground">
-        <Background Type="CT_RAW" Source="FF9E9E9E" />
+        <Background Type="CT_RAW" Source="FF686868" />
       </Color>
       <Color Name="ScrollBarThumbMouseOverBorder">
         <Background Type="CT_RAW" Source="FF9E9E9E" />
       </Color>
       <Color Name="ScrollBarThumbPressedBackground">
-        <Background Type="CT_RAW" Source="FFEFEBEF" />
+        <Background Type="CT_RAW" Source="FF686868" />
       </Color>
       <Color Name="ScrollBarThumbPressedBorder">
         <Background Type="CT_RAW" Source="FFEFEBEF" />
@@ -3899,22 +3899,22 @@
         <Background Type="CT_RAW" Source="FFAFB1B3" />
       </Color>
       <Color Name="ToolWindowButtonDown">
-        <Background Type="CT_RAW" Source="FF4C5052" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="ToolWindowButtonDownActiveGlyph">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ToolWindowButtonDownBorder">
-        <Background Type="CT_RAW" Source="FF4C5052" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="ToolWindowButtonDownInactiveGlyph">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ToolWindowButtonHoverActive">
-        <Background Type="CT_RAW" Source="FF4C5052" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="ToolWindowButtonHoverActiveBorder">
-        <Background Type="CT_RAW" Source="FF4C5052" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="ToolWindowButtonHoverActiveGlyph">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -4089,7 +4089,7 @@
         <Background Type="CT_RAW" Source="FFBBBBBB" />
       </Color>
       <Color Name="CommandBarMouseOverBackgroundGradient">
-        <Background Type="CT_RAW" Source="FF4F4F4F" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
     </Category>
     <Category Name="Find" GUID="{4370282e-987e-4ac4-ad14-5ffed2ad1e14}">
@@ -10321,7 +10321,7 @@
         <Foreground Type="CT_RAW" Source="FF959595" />
       </Color>
       <Color Name="TabSelectionActive">
-        <Background Type="CT_RAW" Source="FF505151" />
+        <Background Type="CT_RAW" Source="FF2D2F30" />
       </Color>
       <Color Name="WindowPanelBorder">
         <Background Type="CT_RAW" Source="FF3C3F41" />
@@ -13079,7 +13079,7 @@
     </Category>
     <Category Name="InvariantTabbedDesigner" GUID="{cbe82e17-dab9-4324-bb17-c601706ef2ef}">
       <Color Name="TabActive">
-        <Background Type="CT_RAW" Source="FF4E5254" />
+        <Background Type="CT_RAW" Source="FF2D2F30" />
         <Foreground Type="CT_RAW" Source="FFBABABA" />
       </Color>
       <Color Name="TextBoxBackground">
@@ -13093,7 +13093,7 @@
         <Foreground Type="CT_RAW" Source="FFBBBBBB" />
       </Color>
       <Color Name="TabActive">
-        <Background Type="CT_RAW" Source="FF505151" />
+        <Background Type="CT_RAW" Source="FF2D2F30" />
         <Foreground Type="CT_RAW" Source="FFBBBBBB" />
       </Color>
       <Color Name="TabInactive">
