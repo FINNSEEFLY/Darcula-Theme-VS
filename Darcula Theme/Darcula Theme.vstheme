@@ -9216,6 +9216,10 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF4EC9B0" />
       </Color>
+      <Color Name="ReSharper C++ Preprocessor Inactive Branch V2">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
     </Category>
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
       <Color Name="Visible Whitespace">
@@ -12519,19 +12523,19 @@
         <Background Type="CT_RAW" Source="FF4E5254" />
       </Color>
       <Color Name="AccentFillSecondary">
-        <Background Type="CT_RAW" Source="E65649B0" />
+        <Background Type="CT_RAW" Source="E64B6EAF" />
       </Color>
       <Color Name="AccentFillTertiary">
-        <Background Type="CT_RAW" Source="CC5649B0" />
+        <Background Type="CT_RAW" Source="CC4B6EAF" />
       </Color>
       <Color Name="AccentFillDisabled">
         <Background Type="CT_RAW" Source="38000000" />
       </Color>
       <Color Name="AccentSelectedTextBackgroundFill">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FF4B6EAF" />
       </Color>
       <Color Name="AccentSelectedTextBackgroundFillSubtle">
-        <Background Type="CT_RAW" Source="4D7160E8" />
+        <Background Type="CT_RAW" Source="4D4B6EAF" />
       </Color>
       <Color Name="TextFillPrimary">
         <Background Type="CT_RAW" Source="FFBABABA" />
@@ -13537,6 +13541,28 @@
       </Color>
       <Color Name="PropertyInspectorBorder">
         <Background Type="CT_RAW" Source="FFD0D2D3" />
+      </Color>
+    </Category>
+    <Category Name="UELog" GUID="{7b340533-df9e-4893-a381-a13ea9227277}">
+      <Color Name="None">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Log">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VeryVerbose">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Verbose">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Display">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
   </Theme>
