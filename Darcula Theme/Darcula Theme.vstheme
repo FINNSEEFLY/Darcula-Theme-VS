@@ -12598,7 +12598,7 @@
         <Background Type="CT_RAW" Source="FF3C3F41" />
       </Color>
       <Color Name="ControlStrongFillDefault">
-        <Background Type="CT_RAW" Source="FF2B2B2B" />
+        <Background Type="CT_RAW" Source="FF4D4D4D" />
       </Color>
       <Color Name="ControlStrongFillDisabled">
         <Background Type="CT_RAW" Source="FF2B2B2B" />
@@ -12715,7 +12715,7 @@
         <Background Type="CT_RAW" Source="4D000000" />
       </Color>
       <Color Name="LayerFillDefault">
-        <Background Type="CT_RAW" Source="FF3C3F41" />
+        <Background Type="CT_RAW" Source="FF2E2E2E" />
       </Color>
       <Color Name="LayerFillAlt">
         <Background Type="CT_RAW" Source="FF2B2B2B" />
