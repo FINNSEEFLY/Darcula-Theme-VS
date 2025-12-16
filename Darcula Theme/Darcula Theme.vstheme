@@ -12610,7 +12610,7 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="SubtleFillSecondary">
-        <Background Type="CT_RAW" Source="09000000" />
+        <Background Type="CT_RAW" Source="1C000000" />
       </Color>
       <Color Name="SubtleFillTertiary">
         <Background Type="CT_RAW" Source="06000000" />
@@ -12745,7 +12745,7 @@
         <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="SolidBackgroundFillTertiary">
-        <Background Type="CT_RAW" Source="FF3C3F41" />
+        <Background Type="CT_RAW" Source="FF424547" />
       </Color>
       <Color Name="SolidBackgroundFillQuaternary">
         <Background Type="CT_RAW" Source="FF3C3F41" />
@@ -12966,7 +12966,7 @@
     </Category>
     <Category Name="AI" GUID="{7730ec54-ee62-4fd2-86cc-77071aabb206}">
       <Color Name="PrimaryHighlight">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FF005FB7" />
       </Color>
       <Color Name="PromptSuggestionBorder">
         <Background Type="CT_RAW" Source="5C7160E8" />
