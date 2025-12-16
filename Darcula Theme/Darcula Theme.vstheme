@@ -12694,7 +12694,7 @@
         <Background Type="CT_RAW" Source="15FFFFFF" />
       </Color>
       <Color Name="DividerStrokeDefault">
-        <Background Type="CT_RAW" Source="0F000000" />
+        <Background Type="CT_RAW" Source="FF515151" />
       </Color>
       <Color Name="FocusStrokeOuter">
         <Background Type="CT_RAW" Source="E4000000" />
