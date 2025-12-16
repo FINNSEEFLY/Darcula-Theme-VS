@@ -1798,7 +1798,7 @@
         <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="ScrollBar">
-        <Background Type="CT_RAW" Source="FF2B2B2B" />
+        <Background Type="CT_RAW" Source="FF3E3E42" />
       </Color>
       <Color Name="ScrollBarBackground">
         <Background Type="CT_RAW" Source="FF3E3E42" />
@@ -12508,7 +12508,7 @@
     </Category>
     <Category Name="Shell" GUID="{73708ded-2d56-4aad-b8eb-73b20d3f4bff}">
       <Color Name="AccentTextFillPrimary">
-        <Background Type="CT_RAW" Source="FF3F3682" />
+        <Background Type="CT_RAW" Source="FF005FB7" />
       </Color>
       <Color Name="AccentTextFillSecondary">
         <Background Type="CT_RAW" Source="FF221D46" />
@@ -12811,7 +12811,7 @@
         <Background Type="CT_RAW" Source="4D005FB7" />
       </Color>
       <Color Name="ControlFillActiveInput">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="SmokeFillInverse">
         <Background Type="CT_RAW" Source="C9FFFFFF" />
@@ -12864,7 +12864,7 @@
         <Background Type="CT_RAW" Source="FF323232" />
       </Color>
       <Color Name="EnvironmentBadge">
-        <Background Type="CT_RAW" Source="FF4B6EAF" />
+        <Background Type="CT_RAW" Source="FF252526" />
       </Color>
       <Color Name="EnvironmentBorder">
         <Background Type="CT_RAW" Source="FF323232" />
@@ -12882,7 +12882,7 @@
         <Background Type="CT_RAW" Source="FF323232" />
       </Color>
       <Color Name="EnvironmentLogo">
-        <Background Type="CT_RAW" Source="FF4E5254" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="StatusBarControlFill">
         <Background Type="CT_RAW" Source="20FFFFFF" />
