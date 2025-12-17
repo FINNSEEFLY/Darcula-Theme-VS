@@ -1,3 +1,6 @@
+## V1.2.0
+- Implement a critical update to ensure full compatibility with the latest Visual Studio 2026 release.
+
 ## v1.1.11
 
 - Updated README.md with detailed instructions and refined content.
