@@ -12814,7 +12814,7 @@
         <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="SmokeFillInverse">
-        <Background Type="CT_RAW" Source="C9FFFFFF" />
+        <Background Type="CT_RAW" Source="DF424547" />
       </Color>
       <Color Name="SolidBackgroundFillEditor">
         <Background Type="CT_RAW" Source="FFFAFAFA" />
