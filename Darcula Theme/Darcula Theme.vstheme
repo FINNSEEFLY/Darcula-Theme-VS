@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Darcula" GUID="{aa72b3d0-ec16-4bcd-aaf8-4c51f7b78f2f}" BaseGUID="{a8a32094-462f-4527-a754-f33248b529f5}">
+  <Theme Name="Darcula" GUID="{20908535-9d8e-4cdf-ae6b-9b5cb57d5a3c}" BaseGUID="{aa72b3d0-ec16-4bcd-aaf8-4c51f7b78f2f}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF3C3F41" />
@@ -6314,7 +6314,7 @@
       </Color>
       <Color Name="CppMemberFieldSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF323232" />
+        <Foreground Type="CT_RAW" Source="FFDADADA" />
       </Color>
       <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6354,7 +6354,7 @@
       </Color>
       <Color Name="CppUDLRawSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF323232" />
+        <Foreground Type="CT_RAW" Source="FFDADADA" />
       </Color>
       <Color Name="CppUDLNumberSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -12814,7 +12814,7 @@
         <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="SmokeFillInverse">
-        <Background Type="CT_RAW" Source="C9FFFFFF" />
+        <Background Type="CT_RAW" Source="DF424547" />
       </Color>
       <Color Name="SolidBackgroundFillEditor">
         <Background Type="CT_RAW" Source="FFFAFAFA" />
@@ -13561,6 +13561,18 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Display">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Warning">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Error">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Fatal">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
