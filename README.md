@@ -16,7 +16,7 @@ The theme has been converted using Microsoft's [Theme Converter for Visual Studi
 
 ## 🖼️ Preview
 
-![Theme Preview](https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/blob/master/Example.png)
+![Theme Preview](https://github.com/FINNSEEFLY/Darcula-Theme-VS/blob/master/Example.png)
 
 ---
 
@@ -68,7 +68,7 @@ This project wouldn't exist without the contributions of the following:
 - Visual Studio is a registered trademark of Microsoft Corporation
 - JetBrains and related logos are registered trademarks of JetBrains s.r.o.
 - This theme is a community project and is not officially affiliated with or endorsed by Microsoft or JetBrains
-
+- The logo associated with this theme is proprietary and may not be used by other parties to represent derivative works
 ---
 
 ## 💬 Feedback & Support

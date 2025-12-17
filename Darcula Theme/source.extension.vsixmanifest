@@ -8,7 +8,7 @@
 		<License>license.txt</License>
 		<Icon>Darcula theme.png</Icon>
 		<PreviewImage>Darcula theme.png</PreviewImage>
-		<Tags>Theme;Themes;Darcula;Dark;Night;Color;Scheme;2022;</Tags>
+		<Tags>Theme;Themes;Darcula;Dark;Night;Color;Scheme;2022;2026;</Tags>
 	</Metadata>
 	<Installation>
 		<InstallationTarget Version="[17.0,18.0)" Id="Microsoft.VisualStudio.Community">
