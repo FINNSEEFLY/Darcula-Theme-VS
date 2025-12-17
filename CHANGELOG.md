@@ -12,34 +12,34 @@
 
 ## v1.1.10
 
-- Fix the color of overloaded operator (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/35)
+- Fix the color of overloaded operator (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/35)
 
 ## v1.1.9
 
-- Fix method name color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/33)
+- Fix method name color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/33)
 
 ## v1.1.8
 
-- Fix outlining chevron color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/31)
+- Fix outlining chevron color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/31)
 - Minor changes
 
 ## v1.1.7
 
-- Fix sticky scroll color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/29)
+- Fix sticky scroll color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/29)
 
 ## v1.1.6
 
-- Fix inline diagnostics font color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/27)
+- Fix inline diagnostics font color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/27)
 
 ## v1.1.5
 
-- Fix incorrect syntax highlighting (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/25)
+- Fix incorrect syntax highlighting (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/25)
 - Adjust according to the current variable options
 
 ## v1.1.4
 
 - Fix promotion box (welcome page)
-- Fix typo color (without resharper) (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/23) 
+- Fix typo color (without resharper) (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/23) 
 - Fix compatibility with VS2019 & VS2017
 - Minor changes
 
@@ -50,7 +50,7 @@
 
 ## v1.1.2
 
-- Fix unreadable text (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/16)
+- Fix unreadable text (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/16)
 - Fix a disappearing arrow in TreeView
 - Fix themed dialog window
 - Slightly change the highlighting of the breakpoint code
@@ -68,12 +68,12 @@ You can use both v1.1.1.2 from [Visual Studio marketplace](https://marketplace.v
 
 ## v1.1.1
 
-- Fix AXML highlighting issues (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/14)
+- Fix AXML highlighting issues (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/14)
 
 ## v1.1.0
 
-- Fix highlight issues (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/12)
-- Add C++ support (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues/4)
+- Fix highlight issues (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/12)
+- Add C++ support (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/4)
 - Fix some colors to better match the Darcula theme
 - Other improvements
 
