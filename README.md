@@ -49,7 +49,7 @@ For the most authentic experience matching JetBrains products, I recommend using
 
 ## 📝 Changelog
 
-See the [Changelog](https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/blob/master/CHANGELOG.md) for detailed version history and updates.
+See the [Changelog](https://github.com/FINNSEEFLY/Darcula-Theme-VS/blob/master/CHANGELOG.md) for detailed version history and updates.
 
 ---
 
@@ -75,7 +75,7 @@ This project wouldn't exist without the contributions of the following:
 
 If you encounter any issues or have suggestions for improvements, please feel free to:
 
-- Report issues on [GitHub](https://github.com/FINNSEEFLY/Darcula-Theme-VS-2022/issues)
+- Report issues on [GitHub](https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues)
 - Leave a review on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
 
 ---
