@@ -12577,16 +12577,16 @@
         <Background Type="CT_RAW" Source="FF656565" />
       </Color>
       <Color Name="ControlFillDefault">
-        <Background Type="CT_RAW" Source="FF3C3F41" />
+        <Background Type="CT_RAW" Source="FF505354" />
       </Color>
       <Color Name="ControlFillSecondary">
-        <Background Type="CT_RAW" Source="FF3C3F41" />
+        <Background Type="CT_RAW" Source="FF505354" />
       </Color>
       <Color Name="ControlFillTertiary">
-        <Background Type="CT_RAW" Source="FF2B2B2B" />
+        <Background Type="CT_RAW" Source="FF505354" />
       </Color>
       <Color Name="ControlFillQuaternary">
-        <Background Type="CT_RAW" Source="FF2B2B2B" />
+        <Background Type="CT_RAW" Source="FF505354" />
       </Color>
       <Color Name="ControlFillDisabled">
         <Background Type="CT_RAW" Source="FF2B2B2B" />
@@ -12646,10 +12646,10 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="ControlStrokeDefault">
-        <Background Type="CT_RAW" Source="0F000000" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="ControlStrokeSecondary">
-        <Background Type="CT_RAW" Source="29000000" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="ControlStrokeOnAccentDefault">
         <Background Type="CT_RAW" Source="14FFFFFF" />
@@ -12882,7 +12882,7 @@
         <Background Type="CT_RAW" Source="00323232" />
       </Color>
       <Color Name="EnvironmentLogo">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF8A8C8D" />
       </Color>
       <Color Name="StatusBarControlFill">
         <Background Type="CT_RAW" Source="20FFFFFF" />
