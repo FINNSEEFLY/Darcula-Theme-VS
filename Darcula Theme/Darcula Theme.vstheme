@@ -6314,7 +6314,7 @@
       </Color>
       <Color Name="CppMemberFieldSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF323232" />
+        <Foreground Type="CT_RAW" Source="FFDADADA" />
       </Color>
       <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6354,7 +6354,7 @@
       </Color>
       <Color Name="CppUDLRawSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF323232" />
+        <Foreground Type="CT_RAW" Source="FFDADADA" />
       </Color>
       <Color Name="CppUDLNumberSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -13561,6 +13561,18 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Display">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Warning">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Error">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Fatal">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
