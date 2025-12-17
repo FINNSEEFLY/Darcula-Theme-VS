@@ -41,7 +41,7 @@ For the most authentic experience matching JetBrains products, I recommend using
 1. **Download** [JetBrains Mono](https://www.jetbrains.com/lp/mono/) from the official JetBrains website
 2. **Install** the font on your system
 3. **Configure** Visual Studio:
-    - Navigate to **Tools → Options → Environment → Fonts and Colors**
+    - Navigate to **Tools → Options → Environment → More Settings → Fonts and Colors**
     - In the **Font** dropdown, select **JetBrains Mono** (or another JetBrains font of your choice)
     - Adjust the size to your preference (recommended: 10-12pt)
 

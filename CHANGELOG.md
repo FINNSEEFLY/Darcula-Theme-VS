@@ -1,3 +1,7 @@
+## v1.2.1
+- Fix tabs color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/40)
+- Fix syntax highlighting for CPP files (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/41)
+
 ## V1.2.0
 - Implement a critical update to ensure full compatibility with the latest Visual Studio 2026 release.
 
