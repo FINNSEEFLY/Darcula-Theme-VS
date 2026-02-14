@@ -1,3 +1,6 @@
+## V1.2.2
+- Fix menu colors (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/44)
+
 ## v1.2.1
 - Fix tabs color (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/40)
 - Fix syntax highlighting for CPP files (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/41)
