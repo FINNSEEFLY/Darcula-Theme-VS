@@ -1,3 +1,6 @@
+## v1.2.3
+- Fix UI colors (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/47)
+
 ## V1.2.2
 - Fix menu colors (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/44)
 
