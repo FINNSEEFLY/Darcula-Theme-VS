@@ -1,3 +1,6 @@
+## v1.2.4
+- Fix TypeScript syntax highlighting (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/46)
+
 ## v1.2.3
 - Fix UI colors (issue https://github.com/FINNSEEFLY/Darcula-Theme-VS/issues/47)
 
